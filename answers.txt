@@ -1,0 +1,12 @@
+(a) - 13
+(b) - Tue Sep 22 18:53:15 2026 -0500
+(c) - git ls-tree can be used with git rev-list to list the files from the most recent commit before a specific date. 
+(d) - no src
+(e) - 0 insertions (file didn't exist) 
+(f) - git log is what happened in the past and git status is what's happening right now
+(g) - git shortlog breaks changes down by author
+(h) - git log -- Main.java
+(i) - git log --follow -p -- Main.java
+(j) - git log --grep="account"
+(k) - git log --author="Name"
+(l) - git log --author="Lauren" --since="2014-01-05" --until="2024-01-14"
